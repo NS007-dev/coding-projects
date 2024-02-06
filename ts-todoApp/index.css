@@ -1,0 +1,40 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: antiquewhite;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.main-container {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+input {
+  height: 35px;
+  width: 165px;
+  background-color: aliceblue;
+  border: 5px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  margin-left: 10px;
+  margin-top: 40px;
+}
+
+li {
+  margin-top: 15px;
+}
+
+button {
+  height: 50px;
+  width: 60px;
+  background-color: blue;
+  color: white;
+  font-size: 1.05rem;
+  margin-top: 10px;
+  cursor: pointer;
+}
