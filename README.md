@@ -2,6 +2,7 @@
 
 ### List of completed projects:
 - [TypeScript + Vite Todo list App](./TS-Todo-App/)
+- [TypeScript and React.js Quiz App](./TS-Reactjs-quizApp/)
 - [HTML 3D Cube Animation](./HTML-3D-Cube/)
 - [HTML Navigation Bar](./HTML-Navbar/)
 
